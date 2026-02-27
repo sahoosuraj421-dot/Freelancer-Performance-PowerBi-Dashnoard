@@ -128,8 +128,8 @@ The dataset represents freelance job activity across multiple platforms.
 ---
 
 ## Author
-**Shubham S. Ghanwat**  
-MBA – Data Science & Business Analytics  
+**Suraj Sahoo**  
+MSC – Information Technology
 Skills: Python, SQL, Power BI, Machine Learning
 
 ---
